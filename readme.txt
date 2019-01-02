@@ -5,8 +5,8 @@ Requires at least: 4.9
 Requires PHP: 5.6
 Tested up to: 5.0.2
 Stable tag: 1.0.0
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+License: GPL-3.0+
+License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
 Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
 
