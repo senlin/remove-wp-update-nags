@@ -1,4 +1,17 @@
-<?php
+<?php /*
+Plugin Name:
+Plugin URI: https://so-wp.com/plugin/remove-wp-update-nags
+Description:
+Version: 1.0.0
+Author: SO WP
+Author URI: https://so-wp.com
+Text Domain: remove-wp-update-nags
+Domain Path: /languages
+*/
+
+/** Prevent direct access to files */
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 
 
 
