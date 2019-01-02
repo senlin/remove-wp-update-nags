@@ -1,6 +1,6 @@
 === Remove WP Update Nags ===
 Contributors: senlin
-Tags: update nag, update nags, wordpress, gutenberg
+Tags: update nag, update nags, wordpress, gutenberg, block editor
 Requires at least: 4.9
 Requires PHP: 5.6
 Tested up to: 5.0.2
@@ -16,16 +16,11 @@ The free Remove WP Update Nags plugin is aimed at people who like to keep their 
 
 If you have decided to stay on WordPress version 4.9.x instead of joining the block-craze going on in WP-circles, then you will quickly get tired of the constant nags all over the WordPress Dashboard.
 
-### ClassicPress Compatible
+The plugin removes the main nag at the top of almost every page. It also removes the Updates submenu of the main Dashboard menu and it adjusts the admin footer by simply showing the current version of the WP install instead of the line with a link.
 
-Because ClassicPress is forked on WP 4.9.8 the Remove WP Update Nags plugin is automatically also compatible with ClassicPress.
+There are no settings, simply install and be free from update nags.
 
-### Gutenberg Compatible
-
-Pinyin Slugs also works with the new WP editor (Gutenberg) although the slugs are only changed upon saving the post/page, not immediately. This has to do with the way this new editor works.
-
-
-We support this plugin exclusively through [Github](https://github.com/senlin/classic-editor-addon/issues). Therefore, if you have any questions, need help and/or want to make a feature request, please open an issue here. You can also browse through open and closed issues to find what you are looking for and perhaps even help others.
+We support this plugin exclusively through [Github](https://github.com/senlin/remove-wp-update-nags/issues). Therefore, if you have any questions, need help and/or want to make a feature request, please open an issue here. You can also browse through open and closed issues to find what you are looking for and perhaps even help others.
 
 Thanks for your understanding and cooperation.
 
@@ -35,6 +30,10 @@ Remove WP Update Nags by [Pieter Bos](https://so-wp.com/plugin/remove-wp-update-
 
 
 == Frequently Asked Questions ==
+
+= What do I do after installing and activating the plugin? =
+
+After installing and activating the plugin you can enjoy a nag-free WordPress Dashboard. There is no settings page.
 
 = Does Remove WP Update Nags work with WordPress 5.x? =
 
@@ -48,6 +47,6 @@ Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags
 
 = 1.0.0 =
 
-* January 5, 2019
+* January 2, 2019
 * Submit plugin to WP.org Plugins Directory for approval
 
