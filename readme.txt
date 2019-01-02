@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
-The free Remove WP Update Nags plugin is aimed at people who like to keep their WordPress sites on version 4.9.x and do not want to be constantly "reminded" of that most likely conscious decision.
+Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded" of that.
 
 == Description ==
 
