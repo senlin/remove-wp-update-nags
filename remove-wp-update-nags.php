@@ -1,7 +1,7 @@
 <?php /*
-Plugin Name:
+Plugin Name: Remove WP Update Nags
 Plugin URI: https://so-wp.com/plugin/remove-wp-update-nags
-Description:
+Description: Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
 Version: 1.0.0
 Author: SO WP
 Author URI: https://so-wp.com
@@ -11,12 +11,6 @@ Domain Path: /languages
 
 /** Prevent direct access to files */
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
-
-
-
-
-
-
 
 add_action( 'admin_init', 'so_remove_update_core' );
 
@@ -29,14 +23,14 @@ function so_remove_update_core() {
     remove_submenu_page( 'index.php', 'update-core.php' );
 }
 
-//hide core updates notification in the dashboard - https://wordpress.stackexchange.com/a/77300/2015
+//hide core updates notification in the dashboard - //wordpress.stackexchange.com/a/77300/2015
 function so_hide_wp_update_nag() {
     remove_action( 'admin_notices', 'update_nag', 3 ); //update notice at the top of the screen
     add_filter( 'update_footer', 'so_smarter_update_footer', 9999);
 }
 
 // remove the update nag in the dashboard footer, only show WP version
-// @source: https://developer.wordpress.org/reference/functions/core_update_footer/#comment-1865
+// @source: //developer.wordpress.org/reference/functions/core_update_footer/#comment-1865
 function so_smarter_update_footer() {
 
     if ( !current_user_can('update_core') )
