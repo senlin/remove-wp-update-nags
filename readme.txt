@@ -4,7 +4,7 @@ Tags: update nag, update nags, wordpress, gutenberg, block editor
 Requires at least: 4.9
 Requires PHP: 5.6
 Tested up to: 5.0.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -44,6 +44,11 @@ The Remove WP Update Nags is specifically developed for people who want to remai
 Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags/issues)
 
 == Changelog ==
+
+= 1.1.0 =
+
+* January 3, 2019
+* Change function prefixes to more unique ones, `rwpun_` instead of `so_`, to comply with plugin review
 
 = 1.0.0 =
 
