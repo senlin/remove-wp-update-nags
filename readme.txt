@@ -1,6 +1,6 @@
 === Remove WP Update Nags ===
 Contributors: senlin
-Tags: update nag, update nags, wordpress, gutenberg, block editor
+Tags: nag, update nags, wp 5, gutenberg, block editor, version update
 Requires at least: 4.9
 Requires PHP: 5.6
 Tested up to: 5.0.2
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
 
 == Description ==
+
+Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
 
 > GDPR-compliant: does not collect any user data
 
