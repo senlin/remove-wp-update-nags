@@ -80,9 +80,9 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
-## Changelog ==
+## Changelog
 
-### 1.2.0 =
+### 1.2.0
 
 * January 7, 2019
 * approved for listing on WP Plugins Directory
