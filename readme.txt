@@ -4,7 +4,7 @@ Tags: update nag, update nags, wordpress, gutenberg, block editor
 Requires at least: 4.9
 Requires PHP: 5.6
 Tested up to: 5.0.2
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -16,7 +16,13 @@ Free WordPress plugin that removes all WP Update Nags, great for if you want to 
 
 If you have decided to stay on WordPress version 4.9.x instead of joining the block-craze going on in WP-circles, then you will quickly get tired of the constant nags all over the WordPress Dashboard.
 
-The plugin removes the main nag at the top of almost every page. It also removes the Updates submenu of the main Dashboard menu and it adjusts the admin footer by simply showing the current version of the WP install instead of the line with a link.
+The Remove WP Update Nags plugin takes care of the following nags:
+
+* it removes the main nag that shows at the top of every page
+* it removes the Updates submenu of the main Dashboard sidebar menu; plugins and themes updates can be seen on their resp. pages
+* it adjusts the admin footer by simply showing the current version of the WP install instead of the line with a link
+
+The plugin also adds a few filters to make sure the site only receive minor (point release) updates. In other words the auto update to 4.9.x is allowed, but the auto update to 5.x.x is not.
 
 There are no settings, simply install and be free from update nags.
 
@@ -39,11 +45,21 @@ After installing and activating the plugin you can enjoy a nag-free WordPress Da
 
 The Remove WP Update Nags is specifically developed for people who want to remain on WordPress 4.9.x, but if you fancy, you can also use the plugin on WP versions of 5.0 and above.
 
+= Does Remove WP Update Nags work with ClassicPress? =
+
+Similar as above, the Remove WP Update Nags is specifically developed for people who want to remain on WordPress 4.9.x, but if you want to use it on ClassicPress, then rest assured that it has been tested with ClassicPress and works there too.
+
 = I have an issue with this plugin, where can I get support? =
 
 Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags/issues)
 
 == Changelog ==
+
+= 1.2.0 =
+
+* January 7, 2019
+* approved for listing on WP Plugins Directory
+* complete rewrite of plugin
 
 = 1.1.0 =
 
