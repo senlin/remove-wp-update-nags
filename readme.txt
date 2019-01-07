@@ -20,6 +20,7 @@ The Remove WP Update Nags plugin takes care of the following nags:
 
 * it removes the main nag that shows at the top of every page
 * it removes the Updates submenu of the main Dashboard sidebar menu; plugins and themes updates can be seen on their resp. pages
+* it hides the update nag from the At a Glance dashboard widget
 * it adjusts the admin footer by simply showing the current version of the WP install instead of the line with a link
 
 The plugin also adds a few filters to make sure the site only receive minor (point release) updates. In other words the auto update to 4.9.x is allowed, but the auto update to 5.x.x is not.
@@ -52,6 +53,12 @@ Similar as above, the Remove WP Update Nags is specifically developed for people
 = I have an issue with this plugin, where can I get support? =
 
 Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags/issues)
+
+== Screenshots ==
+
+1. main dashboard nag before/after
+2. updates submenu before/after
+3. admin footer before/after
 
 == Changelog ==
 
