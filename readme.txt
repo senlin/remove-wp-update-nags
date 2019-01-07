@@ -56,9 +56,8 @@ Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags
 
 == Screenshots ==
 
-1. main dashboard nag before/after
-2. updates submenu before/after
-3. admin footer before/after
+1. Remove WP Update Nags installed and activated
+2. without plugin
 
 == Changelog ==
 
@@ -71,7 +70,7 @@ Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags
 = 1.1.0 =
 
 * January 3, 2019
-* Change function prefixes to more unique ones, `rwpun_` instead of `so_`, to comply with plugin review
+* Change function prefixes to more unique ones to comply with plugin review
 
 = 1.0.0 =
 
