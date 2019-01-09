@@ -6,8 +6,8 @@ Free WordPress plugin that removes all WP Update Nags, great for if you want to 
 
 ------
 
-###### Last updated on January 7, 2019
-###### Development version 1.2.0
+###### Last updated on January 9, 2019
+###### Development version 1.3.0
 ###### requires at least WordPress 4.9
 ###### tested up to WordPress 5.0.2
 ###### Author: [Pieter Bos](https://github.com/senlin)
@@ -81,6 +81,11 @@ We welcome your contributions very much! PR's will be considered and of course b
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
 ## Changelog
+
+### 1.3.0
+
+* January 9, 2019
+* add Freemius
 
 ### 1.2.0
 
