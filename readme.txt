@@ -3,8 +3,8 @@ Contributors: senlin
 Tags: nag, update nags, wp 5, gutenberg, block editor, version update
 Requires at least: 4.9
 Requires PHP: 5.6
-Tested up to: 5.0.2
-Stable tag: 1.3.0
+Tested up to: 5.1
+Stable tag: 1.4.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -62,6 +62,11 @@ Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags
 2. without plugin
 
 == Changelog ==
+
+= 1.4.0 =
+
+* March 2, 2019
+* update Freemius SDK to patch security vulnerability reported [here](https://wpvulndb.com/vulnerabilities/9223)
 
 = 1.3.0 =
 

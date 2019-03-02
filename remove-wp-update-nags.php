@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: 		Remove WP Update Nags
- * Version:     		1.3.0
+ * Version:     		1.4.0
  * Plugin URI:  		https://so-wp.com/plugin/remove-wp-update-nags
  * Description:			Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
  * Network:     		true
@@ -10,7 +10,7 @@
  * Author URI:  		https://so-wp.com
 
  * Requires at least:	4.9
- * Tested up to:		5.0.2
+ * Tested up to:		5.1
 
  * License:    			GPL-3.0+
  * License URI:			http://www.gnu.org/licenses/gpl-3.0.txt
@@ -39,7 +39,7 @@ require_once( 'includes/class-remove-wp-update-nags.php' );
  * @return object Remove_WP_Update_Nags
  */
 function Remove_WP_Update_Nags () {
-	$instance = Remove_WP_Update_Nags::instance( __FILE__, '1.3.0' );
+	$instance = Remove_WP_Update_Nags::instance( __FILE__, '1.4.0' );
 
 }
 
