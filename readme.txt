@@ -3,8 +3,8 @@ Contributors: senlin
 Tags: nag, update nags, wp 5, gutenberg, block editor, version update
 Requires at least: 4.9
 Requires PHP: 5.6
-Tested up to: 5.1
-Stable tag: 1.4.0
+Tested up to: 5.2
+Stable tag: 1.5.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -35,7 +35,7 @@ Thanks for your understanding and cooperation.
 
 If you like the Remove WP Update Nags plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/remove-wp-update-nags?rate=5#postform). Thanks!
 
-Remove WP Update Nags by [Pieter Bos](https://so-wp.com/plugin/remove-wp-update-nags).
+Remove WP Update Nags by [SO WP](https://so-wp.com/plugin/remove-wp-update-nags).
 
 
 == Frequently Asked Questions ==
@@ -62,6 +62,11 @@ Please open an issue on [Github](https://github.com/senlin/remove-wp-update-nags
 2. without plugin
 
 == Changelog ==
+
+= 1.5.0 =
+
+* July 1, 2019
+* remove Freemius
 
 = 1.4.0 =
 

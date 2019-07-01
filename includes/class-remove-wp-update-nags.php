@@ -50,7 +50,7 @@ class Remove_WP_Update_Nags {
 	 * @since   1.2.0
 	 * @return  void
 	 */
-	public function __construct ( $file = '', $version = '1.3.0' ) {
+	public function __construct ( $file = '', $version = '1.5.0' ) {
 		$this->_version = $version;
 		$this->_token = 'Remove_WP_Update_Nags';
 
@@ -199,7 +199,7 @@ class Remove_WP_Update_Nags {
 	 * @see Remove_WP_Update_Nags()
 	 * @return Main Remove_WP_Update_Nags instance
 	 */
-	public static function instance ( $file = '', $version = '1.3.0' ) {
+	public static function instance ( $file = '', $version = '1.5.0' ) {
 		if ( is_null( self::$_instance ) ) {
 			self::$_instance = new self( $file, $version );
 		}

@@ -2,14 +2,14 @@
 
 Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/remove-wp-update-nags.svg)](https://wordpress.org/plugins/remove-wp-update-nags) ![WordPress tested on version 5.1](https://img.shields.io/badge/WordPress-5.1-0073aa.svg?style=flat-square) ![ClassicPress tested on version 1.0.0](https://img.shields.io/badge/ClassicPress-1.0.0-03768e.svg?style=flat-square)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/remove-wp-update-nags.svg)](https://wordpress.org/plugins/remove-wp-update-nags) ![WordPress tested on version 5.2](https://img.shields.io/badge/WordPress-5.2-0073aa.svg?style=flat-square) ![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-square)
 
 ------
 
-###### Last updated on March 2, 2019
-###### Development version 1.4.0
+###### Last updated on July 1, 2019
+###### Development version 1.5.0
 ###### requires at least WordPress 4.9
-###### tested up to WordPress 5.1
+###### tested up to WordPress 5.2
 ###### Author: [Pieter Bos](https://github.com/senlin)
 
 ## Description
@@ -81,6 +81,11 @@ We welcome your contributions very much! PR's will be considered and of course b
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
 ## Changelog
+
+### 1.5.0
+
+* July 1, 2019
+* remove Freemius
 
 ### 1.4.0
 
