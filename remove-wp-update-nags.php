@@ -10,7 +10,7 @@
  * Author URI:  		https://so-wp.com
 
  * Requires at least:	4.9
- * Tested up to:		5.2
+ * Tested up to:		5.7
 
  * License:    			GPL-3.0+
  * License URI:			http://www.gnu.org/licenses/gpl-3.0.txt

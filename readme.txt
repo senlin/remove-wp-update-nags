@@ -3,7 +3,7 @@ Contributors: senlin
 Tags: nag, update nags, wp 5, gutenberg, block editor, version update
 Requires at least: 4.9
 Requires PHP: 5.6
-Tested up to: 5.4
+Tested up to: 5.7
 Stable tag: 1.5.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
