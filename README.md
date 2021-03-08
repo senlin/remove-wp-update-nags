@@ -6,10 +6,10 @@ Free WordPress plugin that removes all WP Update Nags, great for if you want to 
 
 ------
 
-###### Last updated on July 1, 2019
+###### Last updated on March 31, 2020
 ###### Development version 1.5.0
 ###### requires at least WordPress 4.9
-###### tested up to WordPress 5.2
+###### tested up to WordPress 5.4
 ###### Author: [Pieter Bos](https://github.com/senlin)
 
 ## Description
