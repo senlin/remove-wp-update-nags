@@ -1,8 +1,6 @@
 # Remove WP Update Nags
 
-Free WordPress plugin that removes all WP Update Nags, great for if you want to stay on WP 4.9.x and do not want to be constantly "reminded".
-
-[![plugin version](https://img.shields.io/wordpress/plugin/v/remove-wp-update-nags.svg)](https://wordpress.org/plugins/remove-wp-update-nags) [![WP compatibility](https://plugintests.com/plugins/remove-wp-update-nags/wp-badge.svg)](https://plugintests.com/plugins/remove-wp-update-nags/latest) [![PHP compatibility](https://plugintests.com/plugins/remove-wp-update-nags/php-badge.svg)](https://plugintests.com/plugins/remove-wp-update-nags/latest)  [![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-round)](https://www.classicpress.net)
+### October 26, 2022: No longer in active development, use at own risk
 
 ------
 
@@ -71,8 +69,6 @@ We welcome your contributions very much! PR's will be considered and of course b
 [BHI Localization for Websites](https://www.bhi-localization.com/)
 
 [SO WP Plugins](https://so-wp.com)
-
-[WP Tips](https://bohanintl.com/wptips/)
 
 [Github](https://github.com/senlin) 
 
